@@ -1,0 +1,18 @@
+/* dung boder 10px solid green  */
+.chu{
+    color: red;
+}
+.khung{
+    border: 5px solid green;
+    text-align: center;
+} 
+.example-section{
+    background-color: rgb(231, 224, 215);
+}
+.vien{
+    border-left: 3px solid green;
+    background-color: rgb(150, 178, 203);
+}
+.try-button{
+    background-color: rgb(118, 176, 30);
+}
