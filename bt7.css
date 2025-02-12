@@ -27,15 +27,6 @@
     text-align: center;
     border-bottom: 1px solid #ddd;
   }
-  
-  tr:nth-child(even) {
-    background-color: #f2f2f2;
-  }
-  
-  tr:hover {
-    background-color: #f1f9ff;
-  }
-  
   button {
     padding: 8px 12px;
     color: white;
